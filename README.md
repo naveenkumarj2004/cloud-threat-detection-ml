@@ -229,9 +229,8 @@ The collected information is cleaned, transformed and normalized before being pr
 
 Each model then classifies the network record as normal or anomalous.
 
-<p align="center">
-  <img src="images/data-flow-diagram.png" alt="Data flow diagram for the cloud threat detection system" width="950">
-</p>
+<img width="1275" height="634" alt="image" src="https://github.com/user-attachments/assets/66e8e4d0-89f2-490b-8db1-449e3e6cc6eb" />
+
 
 ### Processing Workflow
 
@@ -641,9 +640,8 @@ The classification reports and evaluation graphs indicated that the models were 
 
 The Random Forest classification report produced precision, recall and F1-score values of `1.00` for both normal and anomalous classes within the controlled dataset.
 
-<p align="center">
-  <img src="images/random-forest-classification-report.png" alt="Random Forest classifier performance evaluation" width="650">
-</p>
+<img width="632" height="550" alt="image" src="https://github.com/user-attachments/assets/ce3a75f4-287f-4608-8cb8-947533738e36" />
+
 
 ### Reported Random Forest Results
 
@@ -661,9 +659,8 @@ The Random Forest classification report produced precision, recall and F1-score 
 
 After a network record was classified as anomalous, the prototype generated an automated response message.
 
-<p align="center">
-  <img src="images/automated-threat-response.png" alt="Automated response initiated after detecting anomalous network records" width="700">
-</p>
+<img width="613" height="481" alt="image" src="https://github.com/user-attachments/assets/895bee70-1a65-4038-8958-4a5945412595" />
+
 
 The prototype demonstrated the connection between:
 
@@ -696,9 +693,8 @@ A future production implementation could connect this response stage to cloud-se
 
 The comparison chart shows that Decision Tree, Random Forest and Support Vector Machine each detected 142 anomalous records in the reported evaluation.
 
-<p align="center">
-  <img src="images/model-threat-detection-comparison.png" alt="Threats detected by Decision Tree, Random Forest and Support Vector Machine" width="800">
-</p>
+<img width="1044" height="658" alt="image" src="https://github.com/user-attachments/assets/3d1379ab-dab9-43d1-bdae-63eef8fcc680" />
+
 
 | Model | Threat Records Detected |
 |---|---:|
