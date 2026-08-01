@@ -54,56 +54,83 @@ Cloud Environment
 **The cloud environment represents:**
 
 ► IaaS, PaaS and SaaS resources
+
+
 ► Compute systems
+
 ► Storage services
+
 ► Network infrastructure
+
 ► Multi-cloud integrations
+
 ► Data Collection Layer
 
 **
 This layer performs:**
 
-Network-traffic monitoring
-Real-time data collection
-Security-log collection
-Data processing
-Threat Detection Layer
+►Network-traffic monitoring
+
+►Real-time data collection
+
+►Security-log collection
+
+►Data processing
+
+►Threat Detection Layer
 
 **This layer performs:**
 
-Machine-learning model training
-Network-traffic classification
-Anomaly detection
-Threat identification using Random Forest, Decision Tree and SVM
-Threat Response Layer
+►Machine-learning model training
+
+►Network-traffic classification
+
+►Anomaly detection
+
+►Threat identification using Random Forest, Decision Tree and SVM
+
+►Threat Response Layer
 
 **This layer represents actions such as:**
 
-Blocking suspicious IP addresses
-Terminating malicious sessions
-Isolating affected resources
-Initiating security-response actions
-System Monitoring and Logging
+►Blocking suspicious IP addresses
+
+►Terminating malicious sessions
+
+►Isolating affected resources
+
+►Initiating security-response actions
+
+►System Monitoring and Logging
 
 **This component supports:**
 
-Threat reports
-Security alerts
-Response-action logs
-Administrator notifications
-Cloud Security Management
+►Threat reports
+
+►Security alerts
+
+►Response-action logs
+
+►Administrator notifications
+
+►Cloud Security Management
 
 **This component includes:**
 
-Threat-intelligence integration
-Policy enforcement
-Configuration management
-Administration and Integrations
+►Threat-intelligence integration
+
+►Policy enforcement
+
+►Configuration management
+
+►Administration and Integrations
 
 **The architecture also supports:**
 
-Administrator dashboards
-REST APIs
-Cloud-provider integrations
+►Administrator dashboards
+
+►REST APIs
+
+►Cloud-provider integrations
 
 The report describes the architecture as a sequence of data ingestion, preprocessing, anomaly detection and automated response execution.
