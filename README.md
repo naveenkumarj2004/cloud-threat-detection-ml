@@ -47,20 +47,21 @@ The proposed architecture connects cloud infrastructure, network-data collection
 
 <img width="557" height="337" alt="image" src="https://github.com/user-attachments/assets/0fcdcd48-44c0-4da2-a905-d9939ac6bd0d" />
 
-The architecture contains the following components:
+**The architecture contains the following components:**
 
 Cloud Environment
 
-The cloud environment represents:
+**The cloud environment represents:**
 
-IaaS, PaaS and SaaS resources
-Compute systems
-Storage services
-Network infrastructure
-Multi-cloud integrations
-Data Collection Layer
+► IaaS, PaaS and SaaS resources
+► Compute systems
+► Storage services
+► Network infrastructure
+► Multi-cloud integrations
+► Data Collection Layer
 
-This layer performs:
+**
+This layer performs:**
 
 Network-traffic monitoring
 Real-time data collection
@@ -68,7 +69,7 @@ Security-log collection
 Data processing
 Threat Detection Layer
 
-This layer performs:
+**This layer performs:**
 
 Machine-learning model training
 Network-traffic classification
@@ -76,7 +77,7 @@ Anomaly detection
 Threat identification using Random Forest, Decision Tree and SVM
 Threat Response Layer
 
-This layer represents actions such as:
+**This layer represents actions such as:**
 
 Blocking suspicious IP addresses
 Terminating malicious sessions
@@ -84,7 +85,7 @@ Isolating affected resources
 Initiating security-response actions
 System Monitoring and Logging
 
-This component supports:
+**This component supports:**
 
 Threat reports
 Security alerts
@@ -92,14 +93,14 @@ Response-action logs
 Administrator notifications
 Cloud Security Management
 
-This component includes:
+**This component includes:**
 
 Threat-intelligence integration
 Policy enforcement
 Configuration management
 Administration and Integrations
 
-The architecture also supports:
+**The architecture also supports:**
 
 Administrator dashboards
 REST APIs
