@@ -21,3 +21,21 @@ This project develops an automated system that uses machine-learning models to c
 ► Support Vector Machine
 
 When anomalous traffic is identified, the prototype initiates an automated response workflow representing actions such as generating an alert, blocking suspicious traffic, terminating a malicious session or isolating an affected resource.
+
+
+**Project Objectives**
+
+► Automatically detect anomalous network traffic.
+► Reduce dependence on continuous manual monitoring.
+► Compare Random Forest, Decision Tree and Support Vector Machine.
+► Evaluate models using accuracy, precision, recall, F1-score and ROC-AUC.
+► Demonstrate an automated threat-response workflow.
+► Reduce false-positive security alerts.
+► Design a scalable architecture for cloud environments.
+► Support future integration with public, private, hybrid and multi-cloud platforms.
+
+**System Architecture**
+
+The proposed architecture connects cloud infrastructure, network-data collection, preprocessing, machine-learning-based threat detection, security monitoring, logging and automated response components.
+
+<img width="557" height="337" alt="image" src="https://github.com/user-attachments/assets/0fcdcd48-44c0-4da2-a905-d9939ac6bd0d" />
