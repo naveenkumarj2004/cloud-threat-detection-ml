@@ -168,12 +168,14 @@ The project used a network-intrusion dataset derived from a simulated virtual LA
 
 **Dataset Characteristics**
 
-Input attributes: 41 TCP/IP connection features
-Target classes: Normal and anomalous
-Training records: 25,192
-Test records: 22,544
-Training columns: 42, including the target class
-Test attributes: 41 network-traffic parameters
+### Dataset Characteristics
 
-The report states that the test dataset contains 22,544 records with 41 parameters, while the training dataset contains 25,192 records and a target-class field.
+- **Input attributes:** 41 TCP/IP connection features
+- **Target classes:** Normal and anomalous
+- **Training records:** 25,192
+- **Test records:** 22,544
+- **Training columns:** 42, including the target class
+- **Test attributes:** 41 network-traffic parameters
+
+The test dataset contains 22,544 records with 41 parameters, while the training dataset contains 25,192 records and a target-class field.
 
