@@ -137,9 +137,8 @@ The main objectives of the project are:
 
 The proposed architecture connects cloud infrastructure, network-data collection, preprocessing, machine-learning-based threat detection, system monitoring, logging and automated response components.
 
-<p align="center">
-  <img src="images/system-architecture.png" alt="System architecture for automated cloud threat detection and response" width="900">
-</p>
+<img width="998" height="592" alt="image" src="https://github.com/user-attachments/assets/c88f6940-2d7b-4686-b654-d11522e19cde" />
+
 
 ### Architecture Components
 
