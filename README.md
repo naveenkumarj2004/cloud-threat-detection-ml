@@ -9,12 +9,15 @@ Cloud computing provides scalability, flexibility and cost efficiency. However, 
 This project develops an automated system that uses machine-learning models to classify cloud-oriented network traffic as:
 
 ► Normal
+
 ► Anomalous
 
 **The three primary models evaluated were:**
 
-Random Forest
-Decision Tree
-Support Vector Machine
+► Random Forest
+
+► Decision Tree
+
+► Support Vector Machine
 
 When anomalous traffic is identified, the prototype initiates an automated response workflow representing actions such as generating an alert, blocking suspicious traffic, terminating a malicious session or isolating an affected resource.
