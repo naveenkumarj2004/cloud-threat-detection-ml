@@ -12,7 +12,7 @@ A machine-learning-based cybersecurity project designed to identify anomalous ne
 | **Institution** | Vellore Institute of Technology |
 | **School** | School of Computer Science and Engineering |
 | **Completed** | November 2024 |
-| **Contributors** | Naveen Kumar J and Avishkar SP |
+| **Contributor** | Naveen Kumar J |
 | **Project Supervisor** | Sivaprakash S |
 | **Primary Domain** | Cloud Security and Machine Learning |
 | **Project Areas** | Intrusion Detection, Network Traffic Analysis and Security Automation |
@@ -921,10 +921,6 @@ The following items are not included in this public repository:
 B.Tech Project Contributor  
 Vellore Institute of Technology
 
-### Avishkar SP
-
-B.Tech Project Contributor  
-Vellore Institute of Technology
 
 ### Project Supervisor
 
