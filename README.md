@@ -66,8 +66,8 @@ Cloud Environment
 
 ► Data Collection Layer
 
-**
-This layer performs:**
+
+**This layer performs:**
 
 ►Network-traffic monitoring
 
