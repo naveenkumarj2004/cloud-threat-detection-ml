@@ -147,34 +147,26 @@ The collected information is cleaned, transformed and normalized before being pr
 Cloud Network Traffic
 
         ↓
-
 Data Collection
 
         ↓
-
 Data Cleaning and Preprocessing
 
         ↓
-
 Categorical Encoding
         
         ↓
-
 Feature Normalization
         
         ↓
-
 Machine-Learning Classification
         
         ↓
-
 Normal Traffic or Anomalous Traffic
         
         ↓
-
 Security Logging and Alert Generation
         
         ↓
-
 Automated Threat Response
 
