@@ -134,3 +134,30 @@ Cloud Environment
 ►Cloud-provider integrations
 
 The report describes the architecture as a sequence of data ingestion, preprocessing, anomaly detection and automated response execution.
+
+**Data Flow**
+
+The system begins by collecting network data from a cloud environment.
+
+The collected information is cleaned, transformed and normalized before being processed by the machine-learning models. The models then classify each record as normal or anomalous.
+
+<img width="1275" height="634" alt="image" src="https://github.com/user-attachments/assets/0fe91208-7083-4020-ad2d-f4ef281a5755" />
+
+Cloud Network Traffic
+        ↓
+Data Collection
+        ↓
+Data Cleaning and Preprocessing
+        ↓
+Categorical Encoding
+        ↓
+Feature Normalization
+        ↓
+Machine-Learning Classification
+        ↓
+Normal Traffic or Anomalous Traffic
+        ↓
+Security Logging and Alert Generation
+        ↓
+Automated Threat Response
+
